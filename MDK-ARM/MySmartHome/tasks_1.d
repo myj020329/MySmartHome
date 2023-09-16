@@ -1,0 +1,16 @@
+mysmarthome\tasks_1.o: ../Middlewares/Third_Party/FreeRTOS/Source/tasks.c
+mysmarthome\tasks_1.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+mysmarthome\tasks_1.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+mysmarthome\tasks_1.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+mysmarthome\tasks_1.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+mysmarthome\tasks_1.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+mysmarthome\tasks_1.o: ../Core/Inc/FreeRTOSConfig.h
+mysmarthome\tasks_1.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+mysmarthome\tasks_1.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+mysmarthome\tasks_1.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+mysmarthome\tasks_1.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+mysmarthome\tasks_1.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+mysmarthome\tasks_1.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+mysmarthome\tasks_1.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+mysmarthome\tasks_1.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+mysmarthome\tasks_1.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stack_macros.h

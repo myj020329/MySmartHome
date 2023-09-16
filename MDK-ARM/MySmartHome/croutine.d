@@ -1,0 +1,14 @@
+mysmarthome\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/croutine.c
+mysmarthome\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+mysmarthome\croutine.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+mysmarthome\croutine.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+mysmarthome\croutine.o: ../Core/Inc/FreeRTOSConfig.h
+mysmarthome\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+mysmarthome\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+mysmarthome\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+mysmarthome\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+mysmarthome\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+mysmarthome\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+mysmarthome\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+mysmarthome\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/croutine.h
+mysmarthome\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

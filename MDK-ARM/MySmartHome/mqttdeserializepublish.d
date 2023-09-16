@@ -1,0 +1,11 @@
+mysmarthome\mqttdeserializepublish.o: ..\Drivers\Protocol\MQTTPacket\src\MQTTDeserializePublish.c
+mysmarthome\mqttdeserializepublish.o: ..\Drivers\Protocol\MQTTPacket\src\StackTrace.h
+mysmarthome\mqttdeserializepublish.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+mysmarthome\mqttdeserializepublish.o: ..\Drivers\Protocol\MQTTPacket\src\MQTTPacket.h
+mysmarthome\mqttdeserializepublish.o: ..\Drivers\Protocol\MQTTPacket\src\MQTTConnect.h
+mysmarthome\mqttdeserializepublish.o: ..\Drivers\Protocol\MQTTPacket\src\MQTTPublish.h
+mysmarthome\mqttdeserializepublish.o: ..\Drivers\Protocol\MQTTPacket\src\MQTTSubscribe.h
+mysmarthome\mqttdeserializepublish.o: ..\Drivers\Protocol\MQTTPacket\src\MQTTUnsubscribe.h
+mysmarthome\mqttdeserializepublish.o: ..\Drivers\Protocol\MQTTPacket\src\MQTTFormat.h
+mysmarthome\mqttdeserializepublish.o: ..\Drivers\Protocol\MQTTPacket\src\MQTTPacket.h
+mysmarthome\mqttdeserializepublish.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

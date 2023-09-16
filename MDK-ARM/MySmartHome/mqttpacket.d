@@ -1,0 +1,11 @@
+mysmarthome\mqttpacket.o: ..\Drivers\Protocol\MQTTPacket\src\MQTTPacket.c
+mysmarthome\mqttpacket.o: ..\Drivers\Protocol\MQTTPacket\src\StackTrace.h
+mysmarthome\mqttpacket.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+mysmarthome\mqttpacket.o: ..\Drivers\Protocol\MQTTPacket\src\MQTTPacket.h
+mysmarthome\mqttpacket.o: ..\Drivers\Protocol\MQTTPacket\src\MQTTConnect.h
+mysmarthome\mqttpacket.o: ..\Drivers\Protocol\MQTTPacket\src\MQTTPublish.h
+mysmarthome\mqttpacket.o: ..\Drivers\Protocol\MQTTPacket\src\MQTTSubscribe.h
+mysmarthome\mqttpacket.o: ..\Drivers\Protocol\MQTTPacket\src\MQTTUnsubscribe.h
+mysmarthome\mqttpacket.o: ..\Drivers\Protocol\MQTTPacket\src\MQTTFormat.h
+mysmarthome\mqttpacket.o: ..\Drivers\Protocol\MQTTPacket\src\MQTTPacket.h
+mysmarthome\mqttpacket.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

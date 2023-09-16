@@ -1,0 +1,13 @@
+mysmarthome\heap_4_1.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c
+mysmarthome\heap_4_1.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+mysmarthome\heap_4_1.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+mysmarthome\heap_4_1.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+mysmarthome\heap_4_1.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+mysmarthome\heap_4_1.o: ../Core/Inc/FreeRTOSConfig.h
+mysmarthome\heap_4_1.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+mysmarthome\heap_4_1.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+mysmarthome\heap_4_1.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+mysmarthome\heap_4_1.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+mysmarthome\heap_4_1.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+mysmarthome\heap_4_1.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+mysmarthome\heap_4_1.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
